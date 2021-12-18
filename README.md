@@ -1,7 +1,8 @@
 # Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Live WEBSITE : https://web3-chat-moralis.vercel.app/
 
+<img width="1436" alt="Screenshot 2021-12-18 at 6 15 01 PM" src="https://user-images.githubusercontent.com/73185436/146641566-d36631fb-f75c-4a8b-b151-533f61d30672.png">
 
 <img width="1436" alt="Screenshot 2021-12-18 at 6 13 55 PM" src="https://user-images.githubusercontent.com/73185436/146641551-63865ce6-3471-4a31-8add-3403e4ae31bd.png">
 
